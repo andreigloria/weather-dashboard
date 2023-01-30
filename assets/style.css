@@ -1,0 +1,13 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(47, 47, 202);
+    color: white;
+    padding: 20px;
+}
+
+/* .search-button {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+} */
